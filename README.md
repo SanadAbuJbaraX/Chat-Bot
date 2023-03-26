@@ -11,8 +11,11 @@ A bot to chat with and ask any question uses the chatGPT API
  - ``` git clone https://github.com/SanadAbuJbaraX/Chat-Bot ```
  - ```  pip install -r requirements.txt ```
 # 🕹️Usage
-- # Option 1
+- # Option 1 🎮
 - ```cd Chat-Bot```
 - open bot.py
-- goto openai.api_key and put your api key here
+- goto openai.api_key and put your api key here and save
 - ```python3 chatBot.py ``` 
+- # Option 2 🎮
+- goto my website and download files .exe .deb ..etc ( coming soon )
+
