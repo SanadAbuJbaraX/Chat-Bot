@@ -17,5 +17,5 @@ A bot to chat with and ask any question uses the chatGPT API
 - goto openai.api_key and put your api key here and save
 - ```python3 chatBot.py ``` 
 - # 🎮 Option 2 
-- goto my website and download .exe , .deb or .app file and run it ( coming soon)
+- goto my website and download .exe , .deb or .app file and run it ( coming soon )
 
