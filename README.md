@@ -3,6 +3,10 @@ A bot to chat with and ask any question uses the chatGPT API
 
 # 🖥️ Modules
 - openai
-- pyQt6
+- PyQt6
 - threading
 - sys
+
+# 🔮 Installation
+ - ``` git clone https://github.com/SanadAbuJbaraX/Chat-Bot ```
+ - ```  pip install -r requirements.txt ```
