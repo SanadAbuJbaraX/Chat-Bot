@@ -12,7 +12,7 @@ A bot to chat with and ask any question uses the chatGPT API
  - ```  pip install -r requirements.txt ```
 # 🕹️Usage
 - # Option 1
--- ```cd Chat-Bot```
--- open bot.py
--- goto openai.api_key and put your api key here
--- ```python3 chatBot.py ``` 
+- ```cd Chat-Bot```
+- open bot.py
+- goto openai.api_key and put your api key here
+- ```python3 chatBot.py ``` 
